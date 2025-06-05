@@ -1,0 +1,2 @@
+# MINISHELL
+Linked and Shared
